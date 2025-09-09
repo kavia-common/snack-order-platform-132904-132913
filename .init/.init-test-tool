@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/snack-order-platform-132904-132913/snack_app_frontend"
+}
